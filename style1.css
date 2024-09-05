@@ -1,0 +1,104 @@
+body{
+    background-color: crimson;
+    position: relative;
+}
+.parte1{
+    position: absolute;
+    top: 105px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 80px;
+    height: 80px;
+    background-color: antiquewhite;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    z-index: 30;
+    -o-border-radius: 50px;
+}
+.parte2{
+    position: absolute;
+    top: 105px;
+    bottom: 0;
+    left: 0;
+    right: 30px;
+    margin: auto;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    background-color: black;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    z-index: 30;
+    -o-border-radius: 50px;
+}
+.parte3{
+    position: absolute;
+    top: 105px;
+    bottom: 0;
+    left: 30px;
+    right: 0px;
+    margin: auto;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    background-color: black;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    z-index: 30;
+}
+.parte4{
+    position: absolute;
+    top: 200px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 120px;
+    height: 120px;
+    background-color: antiquewhite;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    -ms-border-radius: 150px;
+    z-index: 30;
+    -o-border-radius: 150px;
+}
+.parte5{
+    position: absolute;
+    top: 340px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 180px;
+    height: 180px;
+    background-color: antiquewhite;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    -ms-border-radius: 150px;
+    -o-border-radius: 150px;
+}
+.parte6{
+    position: absolute;
+    top: 190px;
+    bottom: 0;
+    left: 170px;
+    right: 0;
+    margin: auto;
+    width: 10px;
+    height: 90px;
+    background-color: black;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+}
