@@ -102,3 +102,19 @@ body{
     -ms-transform: rotate(45deg);
     -o-transform: rotate(45deg);
 }
+.parte7{
+    position: absolute;
+    top: 190px;
+    bottom: 0;
+    left: 0px;
+    right: 170px;
+    margin: auto;
+    width: 10px;
+    height: 90px;
+    background-color: black;
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    -moz-transform: rotate(135deg);
+    -ms-transform: rotate(135deg);
+    -o-transform: rotate(135deg);
+}
